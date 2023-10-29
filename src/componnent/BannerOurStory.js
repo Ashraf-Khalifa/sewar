@@ -30,7 +30,7 @@ export default function BannerOurStory() {
           the field of detergents and fragrances industry, we started in 2017,
           and our passion has always been towards development, growth, and
           success, aiming to be a prominent name in our homeland, Jordan, and in
-          the MENA region.
+          the MENA region .
                 </Col>
             </Row>
             
